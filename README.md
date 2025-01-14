@@ -1,0 +1,1 @@
+This repository contains a Lua function with an uncommon bug related to nil value handling. The function `foo` is designed to process table arguments, but it does not correctly handle nil values that are not tables.  This can lead to unexpected behavior or crashes.  The bug and its solution are provided as separate Lua files.
